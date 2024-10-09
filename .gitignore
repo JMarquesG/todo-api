@@ -1,0 +1,13 @@
+node_modules
+.env
+.DS_Store
+coverage
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+tmp
+temp
